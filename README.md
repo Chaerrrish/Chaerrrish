@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=150&section=header&text=Chaerin%20oh's%20github!&fontSize=50&fontColor=FFFFF7&fontAlign=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=160&section=header&text=Chaerin%20oh's%20github!&fontSize=50&fontColor=FFFFF7&fontAlign=20&fontAlignY=40)
   ### | About Me
   <p>
     - 10th Cadet at 42seoul : 2023.10 ~
