@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=200&section=header&text=Chaerin%20oh's%20github!&fontColor=FFFFF7&fontAlign=40&fontAlignY=40)
-<div>
   ### | About Me
   <p>
     - 42Seoul Cadet 10th : 2023.10 ~
@@ -23,6 +22,7 @@ Here are some ideas to get you started:
     - Soongsil Univ Software : 2021.03 ~
   </p>
 <br/>
+
   ### | Studying
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -30,5 +30,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   
-</div>
 
