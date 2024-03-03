@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=150&section=header&text=Chaerin Oh&fontSize=20px" />
+
+<div>
+  <h3>about me</h3>
+  <p>
+    - 42Seoul Cadet 10th : 2023.10 ~
+    - Soongsil Univ Software : 2021.03 ~
+  </p>
+
+  <h3>Studying</h3>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  
+</div>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
