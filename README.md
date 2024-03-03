@@ -33,3 +33,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   </div>
 
+  ![Chaerrrish's GitHub stats](https://github-readme-stats.vercel.app/api?Chaerrrish=anuraghazra&show_icons=true&theme=radical)
+
