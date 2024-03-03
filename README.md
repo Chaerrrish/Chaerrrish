@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=150&section=header&text=Chaerin Oh&fontSize=20px" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=DDA0DD&height=200&section=header&text=Chaerin%20oh's%20github!&fontColor=FFFFF7&fontAlign=24&fontAlignY=40)
 
 <div>
   <h3>about me</h3>
