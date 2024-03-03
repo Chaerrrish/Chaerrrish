@@ -32,8 +32,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   </div>
-
-  ### | Stats
+<br/>
+<hr/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaerrrish&size_weight=0.5&count_weight=0.5)
 
