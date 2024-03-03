@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F08080&height=200&section=header&text=Chaerin%20oh's%20github!&fontColor=FFFFF7&fontAlign=40&fontAlignY=40)
 <div>
-  <h3>about me</h3>
+  ### | About Me
   <p>
     - 42Seoul Cadet 10th : 2023.10 ~
     <br/>
     - Soongsil Univ Software : 2021.03 ~
   </p>
 <br/>
-  <h3>Studying</h3>
+  ### | Studying
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
