@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Chaerrrish/Chaerrrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +20,7 @@ Here are some ideas to get you started:
   <h3>about me</h3>
   <p>
     - 42Seoul Cadet 10th : 2023.10 ~
+    <br/>
     - Soongsil Univ Software : 2021.03 ~
   </p>
 
