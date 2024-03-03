@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <p>
     - 10th Cadet at 42seoul : 2023.10 ~
     <br/>
-    - Soongsil Univ Software : 2021.03 ~
+    - Majoring in Software at Soongsil Univ : 2021.03 ~
   </p>
 <br/>
 
