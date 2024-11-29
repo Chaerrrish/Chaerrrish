@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  ### | About Me
+  ### About Me
   <p>
     - 10th Cadet at 42seoul : 2023.10 ~
     <br/>
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </p>
 <br/>
 
-  ### | Studying
+  ### Studying
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
