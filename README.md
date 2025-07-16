@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   ### About Me
   <p>
-    - 10th Cadet at 42seoul : 2023.10 ~
+    - 10th Member at 42seoul : 2023.10 ~ 2025.08
     <br/>
     - Majoring in Software at Soongsil Univ : 2021.03 ~
   </p>
