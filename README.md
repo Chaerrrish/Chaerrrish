@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
   ### About Me
   <p>
-    - 10th Member at 42seoul : 2023.10 ~ 2025.08
+    - 10th Member at 42seoul : 2023.10 ~ 2025.06
     <br/>
-    - Majoring in Software at Soongsil Univ : 2021.03 ~
+    - Majoring in Software at Soongsil Univ : 2021.03 ~ 2026.02
   </p>
 <br/>
 
